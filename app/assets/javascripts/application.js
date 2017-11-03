@@ -13,3 +13,9 @@
 //= require rails-ujs
 //= require turbolinks
 
+//= require bootstrap.js
+//= require bootstrap.min.js
+//= require cable.js
+//= require html5shiv.min.js
+//= require jquery-2.2.0.min.js
+//= require theme.js
